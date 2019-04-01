@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>csp</string>
+	</array>
+	<key>name</key>
+	<string>ObjectScript CSP</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>#inline-html</string>
+		</dict>
+	</array>
+	<key>repository</key>
+	<dict>
+		<key>inline-html</key>
+		<dict>
+			<key>name</key>
+			<string>meta.embedded.inline.html</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>include</key>
+					<string>text.html.basic</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>scopeName</key>
+	<string>source.objectscript_csp</string>
+	<key>uuid</key>
+	<string>33280C3D-377E-443E-BDF0-2A624E625B48</string>
+</dict>
+</plist>

@@ -1,6 +1,8 @@
 {
-  "name": "objectscript-csp",
+  "name": "ObjectScript CSP",
   "scopeName": "source.objectscript_csp",
+  "uuid": "33280C3D-377E-443E-BDF0-2A624E625B48",
+  "fileTypes": ["csp"],
   "patterns": [
     {
       "include": "#inline-html"

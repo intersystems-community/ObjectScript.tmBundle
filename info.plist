@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zeqnvzbe@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Dmitry Maslennikov</string>
+	<key>description</key>
+	<string>Support for InterSystems ObjectScript language</string>
+	<key>name</key>
+	<string>ObjectScript</string>
+	<key>uuid</key>
+	<string>252D10F3-3F64-42DC-823E-DBC9CADADC84</string>
+</dict>
+</plist>

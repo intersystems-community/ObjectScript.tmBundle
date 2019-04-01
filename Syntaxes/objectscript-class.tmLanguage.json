@@ -1,8 +1,9 @@
 {
-  "name": "objectscript_class",
+  "name": "ObjectScript Class",
   "patterns": [{ "include": "#main" }],
   "scopeName": "source.objectscript_class",
-  "uuid": "",
+  "uuid": "C9CB138A-B316-4211-8D67-5C912B759673",
+  "fileTypes": ["cls"],
   "repository": {
     "main": {
       "patterns": [

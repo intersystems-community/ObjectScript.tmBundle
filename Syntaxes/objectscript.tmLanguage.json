@@ -1,6 +1,8 @@
 {
-  "name": "objectscript",
+  "name": "ObjectScript Routine",
   "scopeName": "source.objectscript",
+  "uuid": "86BFC911-CABE-4FD4-8B88-6DDE3AD6A7E6",
+  "fileTypes": ["mac","int"],
   "patterns": [
     {
       "include": "#comments"

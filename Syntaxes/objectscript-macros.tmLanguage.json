@@ -1,6 +1,8 @@
 {
-  "name": "objectscript_macros",
+  "name": "ObjectScript Macros",
   "scopeName": "source.objectscript_macros",
+  "uuid": "B639220B-4146-47AF-A1D5-4C1B4D254A07",
+  "fileTypes": ["inc"],
   "patterns": [
     { "include": "#include" },
     { "include": "#dim" },
@@ -8,8 +10,7 @@
     { "include": "#def1arg" },
     { "include": "#ifdef" },
     { "include": "#comment-line" }
-  ],
-
+  ],  
   "repository": {
     "include": {
       "patterns": [
